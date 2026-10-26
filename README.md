@@ -76,12 +76,6 @@ SS_BMS/
 
 ## Getting Started
 
-### Prerequisites
-
-- Linux or WSL2 running Ubuntu
-- GCC compiler
-- GNU Make
-
 ### 1. Clone the repository
 
 ```bash
