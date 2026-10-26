@@ -59,7 +59,7 @@ The application follows a client-server architecture:
 
 The project includes a Mermaid class diagram describing the main entities and their relationships.
 
-Source: [`docs/class_diagram.mmd`](docs/class_diagram.mmd)
+Source: BMS_CD.png
 
 ## Project Structure
 
